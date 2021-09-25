@@ -1,0 +1,49 @@
+First of all, creating Frontend part
+
+1) Select UI design for whole website
+2) What basic structure includes? write down it
+    
+    1) NAVBAR
+        - Home
+        - About us
+        - Contact us
+        - more option
+        - categories
+            * NOW what this more option includes
+            - rent on www. digirent .com
+
+        - design main page and add goto sell or rent 
+
+    2) STRUCTURE
+        - image slider and set images of things what user want on rent
+          basic caracausal with 9-10 images
+
+        - first image of category then products
+        show catagoriy wise products with overflow X scroll
+        diffrent categories from top to bottom
+
+        - show only 5-6 products then get user to particular category 
+        page where all products of perticular category are shown
+        *** for that i have to learn how to get, things from db ***
+
+        - if user want particular product, then show him particular
+        product in new page which is only of particular product page
+        *** for that i have to learn how server can generate pages or any
+        other way ***
+
+    3) STRUCTURE for tenant side
+        - Getting all info from tenant for making his seller profile 
+        search on google : what things to get from seller to make 
+        seller profile 
+            *** for that  i have to learn ***
+                - user authentication
+                - after authentication user can see their profile and give 
+                options to add images and text and other things for product 
+                addition
+                - upload data and save on firebase
+                - get data from firebase as if client want invoices
+
+3) WHAT PAYMENT METHODS ARE WE GOING TO USE        
+
+
+   

@@ -1,0 +1,35 @@
+FOLLOW THESE STEPS AND MAKE WEBSITE LEARN DB STEP BY 
+STEP WITH MAKING WEBSITE
+
+* Starting by designing Frontend
+
+** THEN START FROM FIREBASE DOCS FROM STRATCH LEARN FIREBASE **
+
+* making tenant side page
+    - click on "rent on this website button" and show
+        - rent on this website become a tenant
+        - login or signup
+        - if login, show particular user page if he created acc.
+        already otherwise show error
+        - if wnna make tenant profile that's going to crazy for me
+        getting all the docs and uploading on firebase
+            * DOCUMENTS LIKE
+                - getting name, email, phone, photo, category etc
+                but don't show email to users
+        
+* Getting things at homepage
+    - getting products of him into homepage using latest tenant show 
+    his product first as we aren't using more tech. now...
+    - That's it... 
+
+* SETTING COOKIES
+    - when user visits website, if he scrolls down someamout pixels, 
+    accept it like cssgredient .io and set welcome back page
+
+
+
+* MORE FUNCTIONS TO ADD IN FUTURE LIKE
+    - show bestseller medium and new seller at home page and in category wise
+    page too
+
+* PAYMENT METHODS
