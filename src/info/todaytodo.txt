@@ -1,0 +1,15 @@
+* create a tenant making dashboard with glassmorphisam
+    - get each and every info from tenant 
+        - his picture
+        - name 
+        - number & email personal
+        - number to be shared with customer
+        - select category
+        - add images up to 10
+        - add price 
+        - add hours
+        - deposit
+        
+
+* make 3 categories and change prices and images
+ONLY PRODUCT ITEMS LIKE GAME E VASTU 

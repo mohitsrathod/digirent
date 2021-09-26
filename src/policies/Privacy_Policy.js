@@ -1,15 +1,14 @@
 import React from "react";
 import styled from "styled-components";
 
-const Onsell = () => {
+const Privacy_Policy = () => {
   return (
     <MainDiv>
-      <h2>items on sell</h2>
-      <h3>NOTE : we are developing this part for you</h3>
+      <h2>our Privacy Policy </h2>
     </MainDiv>
   );
 };
 
-export default Onsell;
+export default Privacy_Policy;
 
 const MainDiv = styled.div``;

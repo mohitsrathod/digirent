@@ -22,7 +22,7 @@ const Header = () => {
         </EachLink>
 
         <EachLink>
-          <Link to="/rent-on-digirent">Become Tenant/Seller</Link>
+          <Link to="/rent-on-digirent">Become Tenant</Link>
         </EachLink>
 
         <EachLink>
@@ -53,7 +53,7 @@ const Header = () => {
               </EachLinks>
 
               <EachLinks>
-                <Link to="/rent-on-digirent">Become Tenant/Seller</Link>
+                <Link to="/rent-on-digirent">Become Tenant</Link>
               </EachLinks>
 
               <EachLinks>
@@ -198,6 +198,7 @@ const MainDiv = styled.div`
   user-select: none;
 
   background: url(${mainbg});
+  background-attachment: fixed;
 `;
 
 const HomeLink = styled.div`
